@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hallo, ich bin Sammy 👋
 
-<!--
-**Sammy18E/Sammy18E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IHK-zertifizierter Datenanalyst mit einer starken Leidenschaft für SQL, Datenbanken und strukturiertes Arbeiten.
 
-Here are some ideas to get you started:
+Ich arbeite gerne dort, wo Logik, Zahlen und Struktur zusammenkommen. Datenbanken sind für mich nicht nur Tabellen - sie sind Systeme, die Klarheit schaffen und auf denen gute Entscheidungen aufbauen. Genau deshalb habe ich meinen beruflichen Fokus bewusst in Richtung SQL, Datenbankdesign und datengetriebene Prozesse gelegt.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔍 Was ich lernen und weiter vertiefen möchte
+
+- **SQL & relationale Datenbanken** – saubere Abfragen, Verständnis für Strukturen  
+- **Datenmodellierung** – Daten so ordnen, dass sie logisch und nutzbar sind  
+- **Datenanalyse** – mit Zahlen arbeiten, Muster erkennen, Erkenntnisse ableiten  
+- **Best Practices in Datenqualität** – stabile, nachvollziehbare Systeme aufbauen
+
+---
+
+## 💡 Meine Stärken
+
+- Zahlenaffinität  
+- Hohe Lernbereitschaft  
+- Verantwortungsbewusstsein  
+- Flexibilität  
+- Strukturiertes Arbeiten
+
+---
+
+## 🌱 Mein aktueller Weg
+
+Ich befinde mich kurz vor Abschluss meiner einjährigen Weiterbildung zum Datenanalysten (IHK) und bin nun aktiv in der Bewerbungsphase.  
+Gleichzeitig vertiefe ich weiterhin meine SQL-Kenntnisse.
+
+---
+
+## 📁 Was Sie hier finden werden
+
+Projekte aus meiner Weiterbildung 
+
+---
+
+## 🔗 Kontakt
+
+Mein LinkedIn-Profil finden Sie direkt hier in meinem GitHub-Profil.
+
+Ich freue mich über Austausch, Feedback und spannende Kontakte!
