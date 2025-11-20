@@ -21,7 +21,7 @@ Ich arbeite gerne dort, wo Logik, Zahlen und Struktur zusammenkommen. Datenbanke
 - Hohe Lernbereitschaft  
 - Verantwortungsbewusstsein  
 - Flexibilität  
-- Strukturiertes Arbeiten
+- Strukturierte Arbeitsweise
 
 ---
 
