@@ -14,7 +14,6 @@ Ich befinde mich kurz vor Abschluss meiner einjährigen Weiterbildung zum Datena
 - Optimierung von Datenbankabfragen und Arbeiten mit großen Datensätzen  
 - Vertiefung der Konzepte relationaler Datenbanken, Normalformen und Datenmodellierung  
 - Praktische Anwendung in PostgreSQL sowie Arbeiten mit Tools wie DBeaver  
-- Aufbau erster eigener Datenbankprojekte zur Erweiterung meines GitHub-Portfolios  
 
 Mein Ziel ist es, mich beruflich weiter in Richtung Datenbanken und datengetriebene Prozesse zu spezialisieren.
 
