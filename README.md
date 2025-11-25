@@ -31,10 +31,10 @@ Mein Ziel ist es, mich beruflich weiter in Richtung Datenbanken und datengetrieb
 
 ## 🔍 Was ich lernen und weiter vertiefen möchte
 
-- **SQL & relationale Datenbanken** – saubere Abfragen, Verständnis für Strukturen  
-- **Datenmodellierung** – Daten so ordnen, dass sie logisch und nutzbar sind  
-- **Datenanalyse** – mit Zahlen arbeiten, Muster erkennen, Erkenntnisse ableiten  
-- **Best Practices in Datenqualität** – stabile, nachvollziehbare Systeme aufbauen
+- **Fortgeschrittene Datenbankkonzepte** – effiziente Strukturen, Modellierung, Best Practices  
+- **Analytisches Arbeiten** – Muster erkennen, datenbasierte Entscheidungen unterstützen  
+- **Datenqualität & Validierung** – saubere, stabile Datengrundlagen schaffen  
+- **Strukturierte Analyseprozesse** – klarer Workflow von Daten bis Erkenntnissen
 
 ---
 
