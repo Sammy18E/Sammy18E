@@ -8,7 +8,7 @@ Ich arbeite gerne dort, wo Logik, Zahlen und Struktur zusammenkommen. Datenbanke
 
 ## 🌱 Mein aktueller Weg
 
-Ich befinde mich kurz vor Abschluss meiner einjährigen Weiterbildung zum Datenanalysten (IHK) und bin nun aktiv in der Bewerbungsphase. Parallel dazu vertiefe ich meine Kenntnisse im Bereich **SQL und Datenbanken**:
+Ich habe meine einjährige Weiterbildung zum Datenanalysten (IHK) erfolgreich abgeschlossen und bin nun aktiv in der Bewerbungsphase. Parallel dazu vertiefe ich meine Kenntnisse im Bereich **SQL und Datenbanken**:
 
 - Erweiterung meiner Fähigkeiten in der Erstellung komplexer SQL-Abfragen  
 - Optimierung von Datenbankabfragen und Arbeiten mit großen Datensätzen  
